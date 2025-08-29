@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8c82,100:ffb5af&height=120&text=OREO_Z_AXA0Developer&animation=fadeIn&fontColor=fff995&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 꼬꼬 개발자 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 꼬꼬마 개발자 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li>벡엔드 개발자지만 풀스텍 개발자가 되고싶습니다</li><li>개발자가 되고싶은 꼬꼬마 개발자 입니다 </div> 
     </div>
     <div align= "center">
